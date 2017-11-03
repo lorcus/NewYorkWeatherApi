@@ -1,0 +1,4 @@
+Max Humidity: 93%
+Max Temperature: 16C
+Min Temperature: 8C
+Precipitation: 6.35mm
